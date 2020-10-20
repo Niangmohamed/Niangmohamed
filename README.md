@@ -1,6 +1,6 @@
 ### Hi Scientist 👋
 
-Data Science and Artificial Intelligence - I am passionate about developing and applying machine learning methods for building algorithms and predictive models using a variety of datasets for solving impactful real world problems. I am currently interested in the field of machine learning, autonomous agent (deep reinforcement learning) and human centered AI and I like to train deep neural networks on large scale dataset.
+Data Science and Artificial Intelligence - I am passionate about developing and applying machine learning methods for building algorithms and predictive models using a variety of datasets for solving impactful real world problems. I am currently interested in the field of machine learning, autonomous agent (deep reinforcement learning) and human centered AI.
 
 SPECIALITIES: Machine Learning, Deep Learning, Reinforcement Learning, Big Data, Artificial Intelligence
 
