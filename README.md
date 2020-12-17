@@ -8,7 +8,7 @@ SKILLS:
  - Programming: Python, Spark, R, SQL, C++, C, VBA, Stata, PHP, Java-Script, HTML, CSS
  - Numerical Tools: Tensorflow, Keras, Scikit-learn, Pytorch, Pycuda, PySpark, Numpy, Scipy, Pandas, Matplotlib, MLlib
  - Machine Learning Skills: Supervised Methods: Naive Bayes, Linear and Logistic Regression
- - Deep Learning Skills: MLP, CNN, RNN, GAN and Semi Supervised Learning (VAT)
+ - Deep Learning Skills: MLP, CNN, RNN, GAN, ResNet and Semi Supervised Learning (VAT)
  - Reinforcement Learning Skills: Markov Decision Processes, Exploration/Exploitation Tradeoff, Value Functions and Dynamic Programming
  - SVM and Kernel Methods, Decision tree
  - Ensemble Methods: XGBoost, LGBM, CatBoost, Random Forest, Bagging, Meta-classification
