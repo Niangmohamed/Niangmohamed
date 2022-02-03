@@ -1,4 +1,4 @@
-### Hi ML Scientist & Python Learners 👋
+### Hi Scientist👋
 
 I'm **Mohamed Niang**, a **ML Scientist** and **Deep Learner**. I like to build something with **Neural Network's**.
 
