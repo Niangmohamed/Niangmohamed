@@ -1,6 +1,6 @@
 ### Hi Scientist 👋
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Niangmohamed&repo=github-readme-stats)](https://github.com/Niangmohamed/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Niangmohamed&repo=Niangmohamed)](https://github.com/Niangmohamed/Niangmohamed)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Niangmohamed&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
