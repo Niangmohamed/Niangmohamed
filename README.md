@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Niangmohamed&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-Data Science and Artificial Intelligence - I am passionate about developing and applying machine learning methods for building algorithms and predictive models using a variety of datasets for solving impactful real world problems. I am currently interested in the field of Natural Language Processing, Computer Vision and Generative Models.
+<p align="justify"> Data Science and Artificial Intelligence - I am passionate about developing and applying machine learning methods for building algorithms and predictive models using a variety of datasets for solving impactful real world problems. I am currently interested in the field of Natural Language Processing, Computer Vision and Generative Models.</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niangmohamed&langs_count=10)](https://github.com/Niangmohamed/github-readme-stats)
 
