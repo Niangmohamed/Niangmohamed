@@ -26,7 +26,7 @@ Here, a **repository** to **learn** programming with Python.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niangmohamed&langs_count=10)](https://github.com/Niangmohamed/github-readme-stats)
 
-### Find Me:
+### Find Me
 - [LinkedIn](https://www.linkedin.com/in/mohamed-niang-45a698133/)
 - [Twitter](https://twitter.com/Moha__niang) 
 
