@@ -1,4 +1,4 @@
-### Hi Scientist 👋
+### Hi ML Scientist & Python Learners 👋
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Niangmohamed&repo=The-fundamentals-of-Python)](https://github.com/Niangmohamed/The-fundamentals-of-Python)
 
