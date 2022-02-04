@@ -10,7 +10,7 @@ I'm **Mohamed Niang**, a **ML Scientist** and **Deep Learner**. I like to build 
 
 Here, a **repository** to **learn** the basics of programming with Python.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Niangmohamed&repo=The-fundamentals-of-Python)](https://github.com/Niangmohamed/The-fundamentals-of-Python)
+![Favorite Repository](https://github-readme-stats.vercel.app/api/pin/?username=Niangmohamed&repo=The-fundamentals-of-Python)
 
 ### About Me
 
@@ -24,7 +24,7 @@ Here, a **repository** to **learn** the basics of programming with Python.
 
 ### Language and Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niangmohamed&langs_count=10)](https://github.com/Niangmohamed/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niangmohamed&langs_count=10)
 
 ### Find Me
 - [LinkedIn](https://www.linkedin.com/in/mohamed-niang-45a698133/)
