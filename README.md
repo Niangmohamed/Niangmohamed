@@ -8,7 +8,7 @@ I'm **Mohamed Niang**, a **ML Scientist** and **Deep Learner**. I like to build 
 
 ### Favorite Repository
 
-Here, a **repository** to **learn** programming with Python.
+Here, a **repository** to **learn** the basics of programming with Python.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Niangmohamed&repo=The-fundamentals-of-Python)](https://github.com/Niangmohamed/The-fundamentals-of-Python)
 
