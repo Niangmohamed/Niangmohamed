@@ -18,8 +18,6 @@ Here, a **repository** to **learn** the basics of programming with Python.
 
 ![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=Niangmohamed&count_private=true&show_icons=true&theme=vue)
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Niangmohamed?username=Niangmohamed&count_private=true?username=Niangmohamed&show_icons=true&theme=vue)
-
 ### Publications
 
 - [Medium](https://niango777.medium.com/) 
