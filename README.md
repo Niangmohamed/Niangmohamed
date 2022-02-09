@@ -10,7 +10,7 @@
 
 Here, a **repository** to **learn** the basics of programming with Python.
 
-![Favorite Repository](https://github-readme-stats.vercel.app/api/pin/?username=Niangmohamed&repo=The-Fundamentals-of-Python)
+[![Favorite Repository](https://github-readme-stats.vercel.app/api/pin/?username=Niangmohamed&repo=The-Fundamentals-of-Python)](https://github.com/Niangmohamed/The-Fundamentals-of-Python)
 
 ### About Me
 
