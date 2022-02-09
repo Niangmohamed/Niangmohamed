@@ -1,6 +1,6 @@
 ### Hi Scientist👋
 
-I'm **Mohamed Niang**, a **ML Scientist** and **Deep Learner**. I like to build something with **Neural Network's**. I like to **learn new things** and use them to **write repositories**.
+<p align='justify'> I'm <b>Mohamed Niang</b>, a <b>ML Scientist</b> and <b>Deep Learner</b>. I like to build something with <b>Neural Network's</b>. I like to <b>learn new things</b> and use them to <b>write repositories</b>.</p>
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Niangmohamed">
