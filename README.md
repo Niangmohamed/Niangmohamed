@@ -24,7 +24,7 @@ Here, a **repository** to **learn** the basics of programming with Python.
 
 ### Language and Tools
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niangmohamed&langs_count=10)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niangmohamed&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=Niangmohamed&langs_count=10)
 
 ### Find Me Here
 - [LinkedIn](https://www.linkedin.com/in/mohamed-niang-45a698133/)
