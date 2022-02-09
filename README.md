@@ -16,7 +16,7 @@ Here, a **repository** to **learn** the basics of programming with Python.
 
 <p align="justify"> Data Science and Artificial Intelligence - I am passionate about developing and applying machine learning methods for building algorithms and predictive models using a variety of datasets for solving impactful real world problems. I am currently interested in the field of Natural Language Processing (Attention Network's, Transformers), Computer Vision for Self Driving Cars and Reinforcement Learning for Planning and Control.</p>
 
-![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=Niangmohamed&count_private=true&show_icons=true&theme=vue)
+[![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=Niangmohamed&count_private=true&show_icons=true&theme=vue)](https://github-readme-stats.vercel.app/api?username=Niangmohamed&count_private=true&show_icons=true&theme=vue)
 
 ### Publications
 
