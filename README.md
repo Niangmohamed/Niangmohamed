@@ -32,6 +32,10 @@ Here, a **repository** to **learn** the basics of programming with Python.
 
 [![Mohamed NIANG's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Niangmohamed&theme=minimal)](https://activity-graph.herokuapp.com/graph?username=Niangmohamed&theme=minimal)
 
+### My Streak Stats
+
+[![Mohamed NIANG's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Niangmohamed)](https://github-readme-streak-stats.herokuapp.com/?user=Niangmohamed)
+
 ### Find Me Here
 - [LinkedIn](https://www.linkedin.com/in/mohamed-niang-45a698133/)
 - [Twitter](https://twitter.com/Moha__niang) 
