@@ -26,10 +26,9 @@ Here, a **repository** to **learn** the basics of programming with Python.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niangmohamed&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=Niangmohamed&langs_count=10)
 
-
 ### My Contribution Graph
 
-
+[![Mohamed NIANG's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Niangmohamed&theme=minimal)](https://activity-graph.herokuapp.com/graph?username=Niangmohamed&theme=minimal)
 
 ### Find Me Here
 - [LinkedIn](https://www.linkedin.com/in/mohamed-niang-45a698133/)
