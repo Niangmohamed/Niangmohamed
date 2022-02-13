@@ -48,15 +48,15 @@
 
 [![Mohamed NIANG's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Niangmohamed)](https://github-readme-streak-stats.herokuapp.com/?user=Niangmohamed)
 
-<h3> My Trophy Stats <img src="https://media2.giphy.com/media/jIRyzncqRWzM3GYaQm/giphy.gif?cid=ecf05e47dza2mqoo4qjo2t02ycjxpeqxgf3nn02im3gf9ctd&rid=giphy.gif&ct=g" width="20px">
-</h3> 
-
-[![Mohamed NIANG's Trophy Stats](https://github-profile-trophy.vercel.app/?username=Niangmohamed)](https://github-profile-trophy.vercel.app/?username=Niangmohamed)
-
 <h3> My Contribution Graph <img src="https://media3.giphy.com/media/CtYFOdVbvTfgZunPEA/200w.webp?cid=ecf05e47dl4d38a675q68bxc2b8eslyjblmbjsz2a65jorqi&rid=200w.webp&ct=g" width="20px">
 </h3> 
 
 [![Mohamed NIANG's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Niangmohamed&theme=minimal)](https://activity-graph.herokuapp.com/graph?username=Niangmohamed&theme=minimal)
+
+<h3> My Trophy Stats <img src="https://media2.giphy.com/media/jIRyzncqRWzM3GYaQm/giphy.gif?cid=ecf05e47dza2mqoo4qjo2t02ycjxpeqxgf3nn02im3gf9ctd&rid=giphy.gif&ct=g" width="20px">
+</h3> 
+
+[![Mohamed NIANG's Trophy Stats](https://github-profile-trophy.vercel.app/?username=Niangmohamed)](https://github-profile-trophy.vercel.app/?username=Niangmohamed)
 
 <h3> Find Me Here <img src="https://s4.gifyu.com/images/handshake.gif" width="25px">
 </h3> 
