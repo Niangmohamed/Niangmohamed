@@ -1,5 +1,5 @@
 <h3> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi Scientist!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi Scientist
 </h3> 
 
 <p align='justify'> I'm <b>Mohamed Niang</b>, a <b>ML Scientist</b> and <b>Deep Learner</b>. I like to build something with <b>Neural Network's</b>. I like to <b>learn new things</b> and based on it to <b>write repositories</b>. Currently, I am looking to specialize in Computer Vision for Self Driving Cars.</p>
