@@ -1,5 +1,7 @@
 ### Hi Scientist👋
 
+[![Mohamed NIANG's](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niangmohamed&theme=vue)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niangmohamed&theme=vue)
+
 <p align='justify'> I'm <b>Mohamed Niang</b>, a <b>ML Scientist</b> and <b>Deep Learner</b>. I like to build something with <b>Neural Network's</b>. I like to <b>learn new things</b> and based on it to <b>write repositories</b>. Currently, I am looking to specialize in Computer Vision for Self Driving Cars.</p>
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
@@ -28,7 +30,7 @@ Here, a **repository** to **learn** the basics of programming with Python.
 
 ### My Contribution Graph
 
-[![Mohamed NIANG's Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niangmohamed&theme=vue)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niangmohamed&theme=vue)
+
 
 ### Find Me Here
 - [LinkedIn](https://www.linkedin.com/in/mohamed-niang-45a698133/)
