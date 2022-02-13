@@ -18,10 +18,6 @@ Here, a **repository** to **learn** the basics of programming with Python.
 
 [![Mohamed NIANG's](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niangmohamed&theme=vue)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niangmohamed&theme=vue)
 
-### My Github Stats
-
-[![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=Niangmohamed&count_private=true&show_icons=true&theme=vue)](https://github-readme-stats.vercel.app/api?username=Niangmohamed&count_private=true&show_icons=true&theme=vue)
-
 ### Publications
 
 - [Medium](https://niango777.medium.com/) 
@@ -29,6 +25,10 @@ Here, a **repository** to **learn** the basics of programming with Python.
 ### Language and Tools
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niangmohamed&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=Niangmohamed&langs_count=10)
+
+### My Github Stats
+
+[![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=Niangmohamed&count_private=true&show_icons=true&theme=vue)](https://github-readme-stats.vercel.app/api?username=Niangmohamed&count_private=true&show_icons=true&theme=vue)
 
 ### My Contribution Graph
 
