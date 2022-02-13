@@ -10,7 +10,7 @@
 
 Here, a **repository** to **learn** the basics of programming with Python.
 
-[![Favorite Repository](https://github-readme-stats.vercel.app/api/pin/?username=Niangmohamed&repo=The-Fundamentals-of-Python)](https://github.com/Niangmohamed/The-Fundamentals-of-Python)
+[![Mohamed NIANG's Favorite Repository](https://github-readme-stats.vercel.app/api/pin/?username=Niangmohamed&repo=The-Fundamentals-of-Python)](https://github.com/Niangmohamed/The-Fundamentals-of-Python)
 
 ### About Me
 
@@ -24,7 +24,7 @@ Here, a **repository** to **learn** the basics of programming with Python.
 
 ### Language and Tools
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niangmohamed&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=Niangmohamed&langs_count=10)
+[![Mohamed NIANG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niangmohamed&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=Niangmohamed&langs_count=10)
 
 ### My Github Stats
 
@@ -33,6 +33,10 @@ Here, a **repository** to **learn** the basics of programming with Python.
 ### My Streak Stats
 
 [![Mohamed NIANG's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Niangmohamed)](https://github-readme-streak-stats.herokuapp.com/?user=Niangmohamed)
+
+### My Trophy Stats
+
+[![Mohamed NIANG's Trophy Stats](https://github-profile-trophy.vercel.app/?username=Niangmohamed)](https://github-profile-trophy.vercel.app/?username=Niangmohamed)
 
 ### My Contribution Graph
 
