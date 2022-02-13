@@ -20,7 +20,12 @@ Here, a **repository** to **learn** the basics of programming with Python.
 
 ### Publications
 
-- [Medium](https://niango777.medium.com/) 
+<div> 
+    
+<a href="https://medium.com/@niango777" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
+   </a>
+ 
+</div>
 
 ### Language and Tools
 
