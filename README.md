@@ -1,5 +1,5 @@
 <h3> 
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+Scientist+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">"> 
+    Hi Scientist <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h3> 
 
 <p align='justify'> I'm Mohamed Niang, a <img src="https://img.shields.io/badge/ML Scientist-green"> and <img src="https://img.shields.io/badge/Deep Learner-green">. I like to build something with <img src="https://img.shields.io/badge/Neural Network's-blue">. I like to learn new things and based on it to write repositories. Currently, I am looking to specialize in <img src="https://img.shields.io/badge/Computer Vision for Self Driving Cars-red">.</p>
