@@ -26,6 +26,8 @@
 <h3> Publications <img src="https://media1.giphy.com/media/dSdvJInASmUQjorT90/giphy.gif?cid=ecf05e473gb9bujxmpbp3rh1g7fxe3wefvku4r5jg6ylj4lz&rid=giphy.gif&ct=g" width="20px">
 </h3> 
 
+<p align='justify'> Here, to find some of my publications on medium. These publications cover topics such as introduction to Tensorflow, object-oriented programming and other interesting topics on data science and artificial intelligence./p>
+
 <div> 
     
 <a href="https://medium.com/@niango777" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
