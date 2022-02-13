@@ -49,7 +49,7 @@ Here, a **repository** to **learn** the basics of programming with Python.
 
 [![Mohamed NIANG's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Niangmohamed&theme=minimal)](https://activity-graph.herokuapp.com/graph?username=Niangmohamed&theme=minimal)
 
-<h3> Here To Connect With Me <img src="https://s4.gifyu.com/images/handshake.gif" width="25px">
+<h3> Find Me Here<img src="https://s4.gifyu.com/images/handshake.gif" width="25px">
 </h3> 
 
 <div> 
