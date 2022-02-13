@@ -41,7 +41,8 @@ Here, a **repository** to **learn** the basics of programming with Python.
 
 [![Mohamed NIANG's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Niangmohamed)](https://github-readme-streak-stats.herokuapp.com/?user=Niangmohamed)
 
-### My Trophy Stats
+<h3> My Trophy Stats <img src="https://media2.giphy.com/media/jIRyzncqRWzM3GYaQm/giphy.gif?cid=ecf05e47dza2mqoo4qjo2t02ycjxpeqxgf3nn02im3gf9ctd&rid=giphy.gif&ct=g" width="20px">
+</h3> 
 
 [![Mohamed NIANG's Trophy Stats](https://github-profile-trophy.vercel.app/?username=Niangmohamed)](https://github-profile-trophy.vercel.app/?username=Niangmohamed)
 
