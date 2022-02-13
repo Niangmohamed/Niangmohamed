@@ -45,7 +45,8 @@ Here, a **repository** to **learn** the basics of programming with Python.
 
 [![Mohamed NIANG's Trophy Stats](https://github-profile-trophy.vercel.app/?username=Niangmohamed)](https://github-profile-trophy.vercel.app/?username=Niangmohamed)
 
-### My Contribution Graph
+<h3> My Contribution Graph<img src="https://media3.giphy.com/media/CtYFOdVbvTfgZunPEA/200w.webp?cid=ecf05e47dl4d38a675q68bxc2b8eslyjblmbjsz2a65jorqi&rid=200w.webp&ct=g" width="25px">
+</h3> 
 
 [![Mohamed NIANG's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Niangmohamed&theme=minimal)](https://activity-graph.herokuapp.com/graph?username=Niangmohamed&theme=minimal)
 
