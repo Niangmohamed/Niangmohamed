@@ -11,7 +11,7 @@
 <h3> Favorite Repository <img src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47lrb9xeuh9zp8ucl23qcovd9604epux90ot2cwpup&rid=giphy.gif&ct=g" width="20px">
 </h3> 
 
-<p align='justify'> Here, a <strong>repository</strong> to learn the basics of programming with Python.</p>
+<p align='justify'> Here, a <img src="https://img.shields.io/badge/repository-purple"> to learn <img src="https://img.shields.io/badge/the basics of programming with Python-brown">.</p>
 
 [![Mohamed NIANG's Favorite Repository](https://github-readme-stats.vercel.app/api/pin/?username=Niangmohamed&repo=The-Fundamentals-of-Python)](https://github.com/Niangmohamed/The-Fundamentals-of-Python)
 
