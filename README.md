@@ -38,6 +38,8 @@
 <h3> Language and Tools <img src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47jd384f7i87nchwsua8winjpo6jlry9anao4kjexp&rid=giphy.gif&ct=g" width="20px">
 </h3> 
 
+<p align='justify'> Here are the languages I use most often in my personal projects. </p>
+
 [![Mohamed NIANG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niangmohamed&layout=compact&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=Niangmohamed&langs_count=10)
 
 <h3> My Github Stats <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47giebzo6tvlkw37po2bc9t05qkc01ra15k9clucwd&rid=giphy.gif&ct=g" width="20px">
