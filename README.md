@@ -1,7 +1,7 @@
 <h3> Hi Scientist <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 </h3> 
 
-<p align='justify'> I'm <b>Mohamed Niang</b>, a <b>ML Scientist</b> and <b>Deep Learner</b>. I like to build something with <b>Neural Network's</b>. I like to <b>learn new things</b> and based on it to <b>write repositories</b>. Currently, I am looking to specialize in Computer Vision for Self Driving Cars.</p>
+<p align='justify'> I'm <img src="https://img.shields.io/badge/Mohamed Niang-green">, a <b>ML Scientist</b> and <b>Deep Learner</b>. I like to build something with <b>Neural Network's</b>. I like to <b>learn new things</b> and based on it to <b>write repositories</b>. Currently, I am looking to specialize in Computer Vision for Self Driving Cars.</p>
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Niangmohamed">
@@ -10,7 +10,7 @@
 <h3> Favorite Repository <img src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47lrb9xeuh9zp8ucl23qcovd9604epux90ot2cwpup&rid=giphy.gif&ct=g" width="20px">
 </h3> 
 
-<p align='justify'> Here, a <strong>repository</strong> to **learn** the basics of programming with Python.</p>
+<p align='justify'> Here, a <strong>repository</strong> to learn the basics of programming with Python.</p>
 
 [![Mohamed NIANG's Favorite Repository](https://github-readme-stats.vercel.app/api/pin/?username=Niangmohamed&repo=The-Fundamentals-of-Python)](https://github.com/Niangmohamed/The-Fundamentals-of-Python)
 
