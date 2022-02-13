@@ -1,7 +1,7 @@
 <h3> Hi Scientist <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 </h3> 
 
-<p align='justify'> I'm <img src="https://img.shields.io/badge/Mohamed Niang-green">, a <b>ML Scientist</b> and <b>Deep Learner</b>. I like to build something with <b>Neural Network's</b>. I like to <b>learn new things</b> and based on it to <b>write repositories</b>. Currently, I am looking to specialize in Computer Vision for Self Driving Cars.</p>
+<p align='justify'> I'm <img src="https://img.shields.io/badge/Mohamed Niang-green">, a <img src="https://img.shields.io/badge/ML Scientist-green"> and <img src="https://img.shields.io/badge/Deep Learner-green">. I like to build something with <img src="https://img.shields.io/badge/Neural Network's-blue">. I like to <img src="https://img.shields.io/badge/learn new things-yellow"> and based on it to <img src="https://img.shields.io/badge/write repositories-yellow">. Currently, I am looking to specialize in <img src="https://img.shields.io/badge/Computer Vision for Self Driving Cars-red">.</p>
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Niangmohamed">
