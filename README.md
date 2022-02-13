@@ -26,7 +26,7 @@
 <h3> Publications <img src="https://media1.giphy.com/media/dSdvJInASmUQjorT90/giphy.gif?cid=ecf05e473gb9bujxmpbp3rh1g7fxe3wefvku4r5jg6ylj4lz&rid=giphy.gif&ct=g" width="20px">
 </h3> 
 
-<p align='justify'> Here, to find some of my publications on medium. These publications cover topics such as introduction to Tensorflow, object-oriented programming and other interesting topics on data science and artificial intelligence.</p>
+<p align='justify'> Here, to find some of my <img src="https://img.shields.io/badge/publications-green"> on medium. These publications cover topics such as introduction to Tensorflow, object-oriented programming and other interesting topics on data science and artificial intelligence.</p>
 
 <div> 
     
@@ -38,7 +38,7 @@
 <h3> Language and Tools <img src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47jd384f7i87nchwsua8winjpo6jlry9anao4kjexp&rid=giphy.gif&ct=g" width="20px">
 </h3> 
 
-<p align='justify'> Here are the languages I use most often in my personal projects. </p>
+<p align='justify'> Here are the <img src="https://img.shields.io/badge/languages-blue"> I use most often in my personal projects. </p>
 
 [![Mohamed NIANG's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niangmohamed&layout=compact&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=Niangmohamed&langs_count=10)
 
