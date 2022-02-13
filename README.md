@@ -30,13 +30,13 @@ Here, a **repository** to **learn** the basics of programming with Python.
 
 [![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=Niangmohamed&count_private=true&show_icons=true&theme=vue)](https://github-readme-stats.vercel.app/api?username=Niangmohamed&count_private=true&show_icons=true&theme=vue)
 
-### My Contribution Graph
-
-[![Mohamed NIANG's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Niangmohamed&theme=minimal)](https://activity-graph.herokuapp.com/graph?username=Niangmohamed&theme=minimal)
-
 ### My Streak Stats
 
 [![Mohamed NIANG's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Niangmohamed)](https://github-readme-streak-stats.herokuapp.com/?user=Niangmohamed)
+
+### My Contribution Graph
+
+[![Mohamed NIANG's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Niangmohamed&theme=minimal)](https://activity-graph.herokuapp.com/graph?username=Niangmohamed&theme=minimal)
 
 ### Find Me Here
 - [LinkedIn](https://www.linkedin.com/in/mohamed-niang-45a698133/)
