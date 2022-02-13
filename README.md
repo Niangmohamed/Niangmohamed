@@ -41,7 +41,7 @@ Here, a **repository** to **learn** the basics of programming with Python.
 
 ### My Trophy Stats
 
-[![Mohamed NIANG's Trophy Stats](https://github-profile-trophy.vercel.app/?username=Niangmohamed)](https://github-profile-trophy.vercel.app/?username=Niangmohamed&layout=compact)
+[![Mohamed NIANG's Trophy Stats](https://github-profile-trophy.vercel.app/?username=Niangmohamed)](https://github-profile-trophy.vercel.app/?username=Niangmohamed)
 
 ### My Contribution Graph
 
