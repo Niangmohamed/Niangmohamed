@@ -46,10 +46,10 @@ Here, a **repository** to **learn** the basics of programming with Python.
 
 <div> 
     
-  <a href="https://www.linkedin.com/in/mohamed-niang-45a698133/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+* <a href="https://www.linkedin.com/in/mohamed-niang-45a698133/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    </a>
     
-  <a href="https://twitter.com/Moha__niang" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+* <a href="https://twitter.com/Moha__niang" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
    </a>
  
 </div>
