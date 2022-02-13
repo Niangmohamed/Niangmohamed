@@ -6,8 +6,6 @@
     <img src="https://komarev.com/ghpvc/?username=Niangmohamed">
 </a>
 
-[![Mohamed NIANG's](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niangmohamed&theme=vue)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niangmohamed&theme=vue)
-
 ### Favorite Repository
 
 Here, a **repository** to **learn** the basics of programming with Python.
@@ -17,6 +15,10 @@ Here, a **repository** to **learn** the basics of programming with Python.
 ### About Me
 
 <p align="justify"> Data Science and Artificial Intelligence - I am passionate about developing and applying machine learning methods for building algorithms and predictive models using a variety of datasets for solving impactful real world problems. I am currently interested in the field of Natural Language Processing (Attention Network's, Transformers), Computer Vision for Self Driving Cars and Reinforcement Learning for Planning and Control.</p>
+
+[![Mohamed NIANG's](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niangmohamed&theme=vue)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niangmohamed&theme=vue)
+
+### My Github Stats
 
 [![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=Niangmohamed&count_private=true&show_icons=true&theme=vue)](https://github-readme-stats.vercel.app/api?username=Niangmohamed&count_private=true&show_icons=true&theme=vue)
 
