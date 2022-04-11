@@ -45,7 +45,7 @@
 <h3> My Github Stats <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47giebzo6tvlkw37po2bc9t05qkc01ra15k9clucwd&rid=giphy.gif&ct=g" width="20px">
 </h3> 
 
-[![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=Niangmohamed&count_private=true&show_icons=true&theme=vue)](https://github-readme-stats.vercel.app/api?username=Niangmohamed&count_private=true&show_icons=true&theme=vue)
+[![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=Niangmohamed&count_private=true&show_icons=true&theme=github)](https://github-readme-stats.vercel.app/api?username=Niangmohamed&count_private=true&show_icons=true&theme=github)
 
 <h3> My Streak Stats <img src="https://media3.giphy.com/media/9VgujJCeTUCcVPVQ5v/giphy.gif?cid=ecf05e4725nrjcev1pw9j3yw818mdiorjo0chgtgmhtrmz12&rid=giphy.gif&ct=g" width="20px">
 </h3> 
