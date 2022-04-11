@@ -21,7 +21,7 @@
 
 <p align="justify"> <img src="https://img.shields.io/badge/Data Science and Artificial Intelligence-green"> - I am passionate about developing and applying machine learning methods for building algorithms and predictive models using a variety of datasets for solving impactful real world problems. I am currently interested in the field of Natural Language Processing (Attention Network's, Transformers), Computer Vision for Self Driving Cars and Reinforcement Learning for Planning and Control.</p>
 
-[![Mohamed NIANG's](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niangmohamed&theme=vue)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niangmohamed&theme=vue)
+[![Mohamed NIANG's](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niangmohamed&theme=github)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niangmohamed&theme=github)
 
 <h3> Publications <img src="https://media1.giphy.com/media/dSdvJInASmUQjorT90/giphy.gif?cid=ecf05e473gb9bujxmpbp3rh1g7fxe3wefvku4r5jg6ylj4lz&rid=giphy.gif&ct=g" width="20px">
 </h3> 
