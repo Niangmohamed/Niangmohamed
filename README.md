@@ -1,5 +1,5 @@
 <h3> 
-    Hi Scientist <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+    Hi Scientist <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
 </h3> 
 
 <p align='justify'> I'm Mohamed Niang, Machine Learning Scientist and Deep Learner. I like to build something with Neural Network's. I like to learn new things and based on it to write repositories. I'm a big fan of large scale languages modeling and human level vision ai technologies based on Transformers.</p>
