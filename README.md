@@ -2,7 +2,7 @@
     Hi Scientist
 </h3> 
 
-<p align='justify'> I'm Mohamed Niang, Machine Learning Scientist and Deep Learner. I like to build something with Neural Network's. I like to learn new things and based on it to write repositories. I'm a big fan of Large Languages Modeling (LLM) and Human Level Vision AI Technologies based on Transformers (Attention Is All You Need). I am currently a senior machine learning engineer at IBM France.</p>
+<p align='justify'> I'm Mohamed Niang, Machine Learning Scientist and Deep Learner. I like to build something with Neural Network's. I like to learn new things and based on it to write repositories. I'm a big fan of Large Languages Modeling (LLM) and Human Level Vision AI Technologies based on Transformers (Attention Is All You Need). I am currently a Senior Machine Learning Engineer at IBM France.</p>
 
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
