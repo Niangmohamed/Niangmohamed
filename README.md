@@ -2,7 +2,7 @@
     Hi Scientist
 </h3> 
 
-<p align='justify'> I'm Mohamed Niang, machine learning scientist and deep learner. I like to build something with Neural Network's. I like to learn new things and based on it to write repositories. I'm a big fan of large languages modeling (LLM) and human level vision AI technologies based on Transformers (Attention Is All You Need). I am currently a machine learning engineer at IBM, working on Pure MLOps for Recommender System.</p>
+<p align='justify'> I'm Mohamed Niang, machine learning scientist and deep learner. I like to build something with Neural Network's. I like to learn new things and based on it to write repositories. I'm a big fan of large languages modeling (LLMs) and human level vision AI technologies based on Transformers (Attention Network's). I am currently a machine learning engineer at IBM, working on Pure MLOps for Recommender System.</p>
 
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
@@ -19,7 +19,7 @@
 <h3> About Me
 </h3> 
 
-<p align="justify"> <img src="https://img.shields.io/badge/Data Science and Artificial Intelligence-green"> - I am passionate about developing and applying machine learning methods for building algorithms and predictive models using a variety of datasets for solving impactful real world problems. I learn continuously hard on projects regarding machine learning, deep learning and robotics. I am currently interested in the field of Natural Language Processing (Attention Network's, It's All We Need, Transformers), Computer Vision for Self Driving Cars and Reinforcement Learning for Planning and Control.</p>
+<p align="justify"> <img src="https://img.shields.io/badge/Data Science and Artificial Intelligence-green"> - I am passionate about developing and applying machine learning methods for building algorithms and predictive models using a variety of datasets for solving impactful real world problems. I learn continuously hard on projects regarding machine learning, deep learning and robotics. I am currently interested in the field of generative ai, cloud computing and data science.</p>
 
 [![Mohamed NIANG's](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niangmohamed&theme=github)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niangmohamed&theme=github)
 
