@@ -52,11 +52,6 @@
 
 [![Mohamed NIANG's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Niangmohamed)](https://github-readme-streak-stats.herokuapp.com/?user=Niangmohamed)
 
-<h3> My Contribution Graph
-</h3> 
-
-[![Mohamed NIANG's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Niangmohamed&theme=minimal)](https://activity-graph.herokuapp.com/graph?username=Niangmohamed&theme=minimal)
-
 <h3> My Trophy Stats
 </h3> 
 
